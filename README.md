@@ -1,3 +1,8 @@
+## -- quic error can be fixed by adding an SSL certificate
+https://medium.com/@life-is-short-so-enjoy-it/homelab-nginx-proxy-manager-setup-ssl-certificate-with-domain-name-in-cloudflare-dns-732af64ddc0b
+
+we can get the ssl via cloudflare one
+
 # nginx-proxy-manager
 Setup readme how to make this work
 
